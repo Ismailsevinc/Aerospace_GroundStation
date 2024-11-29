@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|c:\\users\\ismai\\source\\repos\\aerospace_groundstation\\aerospace_groundstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|solutionrelative:aerospace_groundstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|c:\\users\\ismai\\source\\repos\\aerospace_groundstation\\aerospace_groundstation\\veriler\\alinacakveriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|solutionrelative:aerospace_groundstation\\veriler\\alinacakveriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\aerospace_groundstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77AC538B-F80B-4FE4-AF68-A4B1D4012B60}|Aerospace_GroundStation\\Aerospace_GroundStation.csproj|solutionrelative:aerospace_groundstation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlinacakVeriler.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\veriler\\AlinacakVeriler.cs",
+              "RelativeDocumentMoniker": "Aerospace_GroundStation\\veriler\\AlinacakVeriler.cs",
+              "ToolTip": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\veriler\\AlinacakVeriler.cs",
+              "RelativeToolTip": "Aerospace_GroundStation\\veriler\\AlinacakVeriler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:04:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\Form1.cs",
+              "RelativeDocumentMoniker": "Aerospace_GroundStation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\Form1.cs",
+              "RelativeToolTip": "Aerospace_GroundStation\\Form1.cs",
+              "ViewState": "AgIAAPoBAAAAAAAAAAAAAAgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:59:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\Form1.cs",
+              "RelativeDocumentMoniker": "Aerospace_GroundStation\\Form1.cs",
+              "ToolTip": "C:\\Users\\ismai\\source\\repos\\Aerospace_GroundStation\\Aerospace_GroundStation\\Form1.cs [Design]",
+              "RelativeToolTip": "Aerospace_GroundStation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:56:26.163Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
