@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aerospace_GroundStation", "WindowsFormsApp3\Aerospace_GroundStation.csproj", "{44842DA3-92D3-4919-84A8-44583FE954F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44842DA3-92D3-4919-84A8-44583FE954F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44842DA3-92D3-4919-84A8-44583FE954F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44842DA3-92D3-4919-84A8-44583FE954F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44842DA3-92D3-4919-84A8-44583FE954F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8244C429-0620-43BA-B8A3-0C17DB85D26C}
+	EndGlobalSection
+EndGlobal
